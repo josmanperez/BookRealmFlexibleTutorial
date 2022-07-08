@@ -1,0 +1,41 @@
+# iOS
+
+frontend/iOSBooksFlexible/BookTutorialFlexible/Utils/Realm.plist
+frontend/iOSBooksFlexible/BookTutorialFlexible.xcodeproj/project.xcworkspace/xcuserdata/
+frontend/iOSBooksFlexible/BookTutorialFlexible.xcodeproj/xcuserdata/
+
+# Android
+
+# Gradle files
+frontend/AndroidBooksFlexible/.gradle/
+frontend/AndroidBooksFlexible/build/
+
+# Local configuration file (sdk path, etc)
+frontend/AndroidBooksFlexible/local.properties
+
+# Log/OS Files
+frontend/AndroidBooksFlexible/*.log
+
+# Android Studio generated files and folders
+frontend/AndroidBooksFlexible/captures/
+frontend/AndroidBooksFlexible/.externalNativeBuild/
+frontend/AndroidBooksFlexible/.cxx/
+frontend/AndroidBooksFlexible/*.apk
+frontend/AndroidBooksFlexible/output.json
+
+# IntelliJ
+frontend/AndroidBooksFlexible/*.iml
+frontend/AndroidBooksFlexible/.idea/
+frontend/AndroidBooksFlexible/misc.xml
+frontend/AndroidBooksFlexible/deploymentTargetDropDown.xml
+frontend/AndroidBooksFlexible/render.experimental.xml
+
+# Keystore files
+frontend/AndroidBooksFlexible/*.jks
+frontend/AndroidBooksFlexible/*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+frontend/AndroidBooksFlexible/google-services.json
+
+# Android Profiling
+frontend/AndroidBooksFlexible/*.hprof
